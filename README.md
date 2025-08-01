@@ -15,16 +15,13 @@ I am Sude Nur Kömür 😃. I am from İzmir and currently doing my computer eng
 * DSC Lead.
 * Facilitator at DSC Turkey.
 * WTM Ambassador.
-* Entrepreneurship Foundation - Challenger.
-* Google Games and Apps Academy - Scholarship.
-* Google Artificial Intelligence and Data Science Academy - Scholarship.
+
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
 - Backend development using **Java , .Net , Flask**.
 - Making for **Relational Database Management Systems**.
 - Machine Learning: Developing models with TensorFlow and PyTorch, focusing on adversarial perturbations and anomaly detection.
-- Mobile application development using **Flutter and Kotlin** (Still learning).
 - Solving Data structure and algorithm questions in **Java and Python**.
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
